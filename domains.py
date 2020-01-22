@@ -1,0 +1,12 @@
+google.com 
+nike.com 
+mail.yahoo.com 
+delontestewart.com 
+kalebbarton.com 
+lolo.com 
+freshbooks.net 
+books.com 
+wtf.io 
+facebook.com 
+twitter.com 
+test.server.net 
