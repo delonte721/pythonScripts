@@ -10,4 +10,5 @@ if input() == myfavoritefood:
     print("Yep!, So amazing!")
 else:
     print("Yuck, that's not it!")
-    print("Thanks, for playing!")
+
+print("Thanks, for playing!")
