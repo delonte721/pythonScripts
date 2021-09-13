@@ -2,6 +2,9 @@
 
 #test and practicing python
 
-print("Hello World")
-name = input("What is your name? ")
-print("Nice to meet you,", name)
+
+
+def main(): 
+    print("Hello World")
+    name = input("What is your name? ")
+    print("Nice to meet you,", name)
