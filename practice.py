@@ -2,11 +2,9 @@
 
 #test and practicing python
 
-
-
-def main(): {
-    print("Hello World")
-    name = input("What is your name? ")
-    print("Nice to meet you,", name)
-    return main()
-}
+n = 0
+while True:
+    if n == 3:
+        break
+    print(n)
+    n = n + 1
