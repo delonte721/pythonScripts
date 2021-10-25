@@ -4,8 +4,9 @@
 
 
 
-def main(): 
+def main(): {
     print("Hello World")
     name = input("What is your name? ")
     print("Nice to meet you,", name)
-return main()
+    return main()
+}
